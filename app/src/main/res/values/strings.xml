@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">EditProfile</string>
+    <string name="facebook_app_id">1977553342530969</string>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="purple">#673AB7</color>
+    <string name="title_activity_work_">Work_Activity</string>
+    <string name="title_activity_industry_">Industry_Activity</string>
+    <string name="work_option1">Business</string>
+    <string name="work_option2">Education</string>
+    <string name="work_option3">Engineering</string>
+    <string name="work_option4">Others</string>
+    <string name="industry_option1">Automobile</string>
+    <string name="industry_option2">Space</string>
+    <string name="industry_option3">IT and BPM</string>
+    <string name="industry_option4">Others</string>
+    <string name="title_activity_sponsor_">Sponsor_Activity</string>
+    <string name="sponsor_option1">College Event</string>
+    <string name="sponsor_option2">Start up</string>
+    <string name="sponsor_option3">Concert</string>
+    <string name="sponsor_option4">Others</string>
+    <string name="title_activity_volunteer_">Volunteer_Activity</string>
+    <string name="volunteer_option1">NGO</string>
+    <string name="volunteer_option2">College Project</string>
+    <string name="volunteer_option3">Industrial Project</string>
+    <string name="volunteer_option4">Others</string>
+    <string name="title_activity_invest_activity">Invest_Activity</string>
+
+    <string name="title_activity_invest_">Invest_Activity</string>
+    <string name="invest_option1">NGO</string>
+    <string name="invest_option2">College Event</string>
+    <string name="invest_option3">Company</string>
+    <string name="invest_option4">Others</string>
+
+
+</resources>
